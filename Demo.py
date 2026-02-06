@@ -23,3 +23,10 @@ else:
 food = "Pizza"
 b= food.replace("z","s")
 print(food,b)
+
+x=10
+if x>5:
+    x=x*2
+    if >30:
+        x=x-5
+print(x)
