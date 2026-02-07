@@ -31,3 +31,10 @@ if x>5:
     if >30:
         x=x-5
 print(x)
+
+nums1=[10, 20, 30,40]
+nums1.append(nums1[-1]+5)
+print(nums1)
+total=sum(nums1[1:3])
+print(total)
+
