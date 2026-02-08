@@ -39,3 +39,10 @@ print(nums1)
 total=sum(nums1[1:3])
 print(total)
 
+x=3
+if x%2==False:
+    print('Odd')
+elif x%2:
+    print('Even')
+else:
+    print('End')
