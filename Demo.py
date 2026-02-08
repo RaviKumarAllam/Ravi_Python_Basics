@@ -39,6 +39,7 @@ print(nums1)
 total=sum(nums1[1:3])
 print(total)
 
+#Magical code-6 
 x=3
 if x%2==False:
     print('Odd')
