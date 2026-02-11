@@ -47,3 +47,13 @@ elif x%2:
     print('Even')
 else:
     print('End')
+
+
+print(list(range(1,10,3)))
+
+s="python"
+print(s[::2])
+
+x={1,2,3}
+y={3,4,5}
+print(x&y)
