@@ -38,6 +38,9 @@ nums1.append(nums1[-1]+5)
 print(nums1)
 total=sum(nums1[1:3])
 print(total)
+print(list(range(1,10,3)))
+s="python"
+print(s[::2])
 
 #Magical code-6 
 x=3
@@ -48,12 +51,7 @@ elif x%2:
 else:
     print('End')
 
-
-print(list(range(1,10,3)))
-
-s="python"
-print(s[::2])
-
+#Magical code-7 operators validation
 x={1,2,3}
 y={3,4,5}
 print(x&y)
