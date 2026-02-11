@@ -51,7 +51,13 @@ elif x%2:
 else:
     print('End')
 
+x=[1,2,3]
+x.append([4,5])
+print(len(x))
+
 #Magical code-7 operators validation
 x={1,2,3}
 y={3,4,5}
 print(x&y)
+
+
