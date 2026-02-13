@@ -60,4 +60,8 @@ x={1,2,3}
 y={3,4,5}
 print(x&y)
 
+#Magical code-8 first string operation and next int
+p = "7"
+q = "2"
+print(int(p+q) - int(q+p))
 
