@@ -55,6 +55,11 @@ x=[1,2,3]
 x.append([4,5])
 print(len(x))
 
+a = [1,2,3,4]
+b = [1,1,1,1]
+c = [x * y for x in a for y in b]
+print(len(set(c)))
+
 #Magical code-7 operators validation
 x={1,2,3}
 y={3,4,5}
