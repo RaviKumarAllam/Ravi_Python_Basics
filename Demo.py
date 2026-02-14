@@ -57,7 +57,7 @@ print(len(x))
 
 a = [1,2,3,4]
 b = [1,1,1,1]
-c = [x * y for x in a for y in b]
+c = [x*y for x in a for y in b]
 print(len(set(c)))
 
 #Magical code-7 operators validation
