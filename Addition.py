@@ -35,7 +35,7 @@ Tuple_Num = (1,8,9,0,3,4,5,6,5,9,5,1)
 print(Tuple_Num[0], Tuple_Num[-1], Tuple_Num[0:2], Tuple_Num[1:], Tuple_Num[:4], Tuple_Num[::-1])
 print(Tuple_Num.count(5))
 
-#Set indexing not support improper sequence add, discard, clear, copy, union etc...
+#Set indexing not support improper sequence add, discard, clear, copy, union etc.
 Set_Num = {1,8,9,0,2,3,4,5,6,5,9,5,1}
 Set_Num.add(7)
 print(Set_Num)
