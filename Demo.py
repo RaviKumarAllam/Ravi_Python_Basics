@@ -54,7 +54,7 @@ else:
 x=[1,2,3,2]
 x.append([4,5])
 print(len(x))
-x.remove(2)
+x.remove(2) #It will remove only first occurence 
 print(x)
 
 a = [1,2,3,4]
