@@ -51,9 +51,11 @@ elif x%2:
 else:
     print('End')
 
-x=[1,2,3]
+x=[1,2,3,2]
 x.append([4,5])
 print(len(x))
+x.remove(2)
+print(x)
 
 a = [1,2,3,4]
 b = [1,1,1,1]
