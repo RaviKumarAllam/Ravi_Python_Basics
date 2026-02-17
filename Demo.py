@@ -67,9 +67,11 @@ x={1,2,3}
 y={3,4,5}
 print(x&y)
 
-#Magical code-8 setremove the duplicates
+#Magical code-8 set remove the duplicates
 a={1,2,3,4,2}
 print(a)
+
+#Magical code-9
 p = "7"
 q = "2"
 print(int(p+q) - int(q+p))
