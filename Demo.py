@@ -67,7 +67,10 @@ x={1,2,3}
 y={3,4,5}
 print(x&y)
 
-#Magical code-8 first string operation and next int
+#Magical code-8 setremove the duplicates
+
+a={1,2,3,4,2}
+print(a)
 p = "7"
 q = "2"
 print(int(p+q) - int(q+p))
