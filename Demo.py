@@ -68,7 +68,6 @@ y={3,4,5}
 print(x&y)
 
 #Magical code-8 setremove the duplicates
-
 a={1,2,3,4,2}
 print(a)
 p = "7"
