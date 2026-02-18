@@ -79,3 +79,8 @@ p = "7"
 q = "2"
 print(int(p+q) - int(q+p))
 
+a="Python"
+b=a
+b += "Rocks"
+print(a)
+
