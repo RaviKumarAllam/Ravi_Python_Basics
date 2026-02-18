@@ -61,6 +61,9 @@ a = [1,2,3,4]
 b = [1,1,1,1]
 c = [x*y for x in a for y in b]
 print(len(set(c)))
+d = a
+a = a + [5]
+print(d)
 
 #Magical code-7 operators validation
 x={1,2,3}
