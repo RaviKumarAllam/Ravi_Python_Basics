@@ -6,7 +6,7 @@ if total == 0.3:
 else:
     print('Hello')
 
-#Magical code 2 These are non-empty strings so always true
+#Magical code 2 These are non-empty strings so always true.
 name = "Ravi"
 if name == "Kumar" or "Allam":
     print('Correct Name')
