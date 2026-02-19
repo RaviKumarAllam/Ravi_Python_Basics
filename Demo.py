@@ -24,7 +24,7 @@ food = "Pizza"
 b= food.replace("z","s")
 print(food,b)
 
-#Magical code-4  Conditional logic [if inside if]
+#Magical code-4  Conditional logic [if inside if].
 x=10
 if x>5:
     x=x*2
