@@ -1,5 +1,5 @@
 #Magical code-1
-total = 0.1 + 0.2
+total = 0.1 + 0.2 +0.3
 print(total)
 if total == 0.3:
     print('Hi')
