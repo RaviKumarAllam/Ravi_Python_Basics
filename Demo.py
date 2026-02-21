@@ -4,7 +4,7 @@ print(total)
 if total == 0.3:
     print('Hi')
 else:
-    print('Hello')
+    print('Hello World')
 
 #Magical code 2 These are non-empty strings so always true.
 name = "Ravi"
