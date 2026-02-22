@@ -89,6 +89,7 @@ for i in range(3):
     print(i)
     i=10
 
+# x value is null so return else condition
 x = []
 if x:
     print('Hello')
