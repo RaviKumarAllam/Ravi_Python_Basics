@@ -84,7 +84,7 @@ b=a
 b += "Rocks"
 print(a)
 
-#magical code 10
+#magical code 10 it will print 2 but after that I value 10
 for i in range(3):
     print(i)
     i=10
