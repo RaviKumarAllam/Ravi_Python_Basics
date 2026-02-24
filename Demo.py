@@ -66,6 +66,7 @@ a = a + [5]
 print(d)
 
 print(a[::-2])
+
 #Magical code-7 operators validation
 x={1,2,3}
 y={3,4,5}
