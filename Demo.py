@@ -42,6 +42,9 @@ print(list(range(1,10,3)))
 s="python"
 print(s[::2])
 
+nums1[1] = 25
+print(nums1)
+
 #Magical code-6 
 x=3
 if x%2==False:
