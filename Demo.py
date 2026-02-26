@@ -112,7 +112,7 @@ if x:
     print('Hello')
 else:
     print('World')
-
+#Getting syntax error 
 n=5
 if n % :
     print('Even')
