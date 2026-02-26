@@ -113,4 +113,10 @@ if x:
 else:
     print('World')
 
+n=5
+if n % :
+    print('Even')
+else:
+    print('Odd')
+
 
