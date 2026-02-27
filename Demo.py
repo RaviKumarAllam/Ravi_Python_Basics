@@ -119,7 +119,7 @@ if n % :
 else:
     print('Odd')
 
-#MAGICAL Code 11
+#MAGICAL Code-11
 a = 1000
 b = 10 * 100
 c = int("1000")
