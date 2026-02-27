@@ -82,7 +82,7 @@ y = {'b', 'c', 'd'}
 z = x-y
 print(z)
 
-#Magical code-8 set remove the duplicates
+#Magical code-8 set remove the duplicates.
 a={1,2,3,4,2}
 print(a)
 
