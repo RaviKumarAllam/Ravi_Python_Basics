@@ -119,13 +119,9 @@ if n % :
 else:
     print('Odd')
 
-
+#MAGICAL Code 11
 a = 1000
-
 b = 10 * 100
-
 c = int("1000")
-
 d = 500 + 500
-
 print(a is b, a is c, a== d)
