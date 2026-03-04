@@ -11,7 +11,7 @@ x=10
 y=x*2
 z= _+15
 print(z)
-a='ravi'
+a="ravi"
 print(a*5)
 
 num1 = 8
