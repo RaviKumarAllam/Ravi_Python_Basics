@@ -1,7 +1,8 @@
 a = 10
 b = 20
 c = 40
-print(a + b + c)
+d = 50
+print(a + b + c + d)
 
 
 #remove the special meaning of \n --> r (raw strings)
