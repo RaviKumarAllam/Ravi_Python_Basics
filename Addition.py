@@ -32,7 +32,7 @@ List_Num.insert(1,2), List_Num.pop(2)
 List_Num.extend([8,9,10])
 print(List_Num)
 List_Num.sort()
-print(sum(List_Num),min(List_Num),max(List_Num),max(List_Num),sorted(List_Num))
+print(sum(List_Num),min(List_Num),max(List_Num),sorted(List_Num))
 
 
 #Tuple indexing [a:b] a--> starting, b -> ending append, insert, pop, extend, min, max, sum and sort
