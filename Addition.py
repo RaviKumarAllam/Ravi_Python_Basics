@@ -5,7 +5,7 @@ d = 50
 print(a + b + c + d)
 
 
-#remove the special meaning of \n --> r (raw strings)
+#remove the special meaning of \n --> r [raw strings] 
 print(r"ravi/nbook")
 #multi print lly for + - * / // (Floor division) ** (power off) % (output will be reminder) _ (underscore for previous output)
 x=10
